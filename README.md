@@ -11,12 +11,12 @@ AIREACH 高价值客户猎手（每日哨兵 · 通用版）——外贸企业 A
 
 ### Windows
 ```powershell
-git clone https://github.com/zecun5146-create/AIREACH高价值客户猎手.git && powershell -NoProfile -ExecutionPolicy Bypass -File "AIREACH高价值客户猎手\install.ps1"
+git clone https://github.com/zecun5146-create/aireach-high-value-hunter.git && powershell -NoProfile -ExecutionPolicy Bypass -File "aireach-high-value-hunter\install.ps1"
 ```
 
 ### macOS / Linux
 ```bash
-git clone https://github.com/zecun5146-create/AIREACH高价值客户猎手.git && bash "AIREACH高价值客户猎手/install.sh"
+git clone https://github.com/zecun5146-create/aireach-high-value-hunter.git && bash "aireach-high-value-hunter/install.sh"
 ```
 
 安装后请**完全退出 Accio Work 再重新打开**（不是最小化）。
